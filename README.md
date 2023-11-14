@@ -1,0 +1,3 @@
+# Qoute_Generator
+
+A Simple Quote_Generator With HTML,CSS And JavaScript...
