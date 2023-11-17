@@ -28,7 +28,7 @@ html,body
     box-shadow: 1px 1px 10px 1px wheat;
     position: relative;
     top: 0px;
-    margin: 10px 40px;
+    margin: 10px 80px;
 }
 h1
 {
@@ -44,7 +44,7 @@ h1
     width: 100%;
     min-width: 400px;
     min-height: 400px;
-    margin: 40px 60px 0px 60px;
+    margin: 40px 30px 0px 30px;
     text-align: center;
     position: relative;
     border-radius: 20px;
