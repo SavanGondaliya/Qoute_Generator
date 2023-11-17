@@ -69,4 +69,13 @@ p{
     font-weight: bolder;
     outline: none;
     position: relative;
+    box-shadow: 1px 1px 10px 1px wheat;
+}
+.footer
+{
+    background: linear-gradient(90deg,pink,skyblue);
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 1px wheat;
+    bottom: 20px;
+    margin: 0px 0px 40px 0px;
 }
