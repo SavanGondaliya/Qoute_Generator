@@ -28,7 +28,7 @@ html,body
     box-shadow: 1px 1px 10px 1px wheat;
     position: relative;
     top: 0px;
-    margin: 20px;
+    margin: 10px 40px;
 }
 h1
 {
@@ -41,10 +41,10 @@ h1
     justify-content: center;
     align-items: center;
     background: linear-gradient(90deg,pink,skyblue);
+    width: 100%;
     min-width: 400px;
     min-height: 400px;
-    margin: 20px;
-    width: 100%;
+    margin: 40px 60px 0px 60px;
     text-align: center;
     position: relative;
     border-radius: 20px;
@@ -61,13 +61,12 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 30px;
+    margin: 10px 0px;
 }
 .btn
 {
     background: linear-gradient(90deg,pink,skyblue);
     font-weight: bolder;
-    padding: 10px;
     outline: none;
     position: relative;
 }
